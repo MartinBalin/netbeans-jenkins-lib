@@ -1482,9 +1482,9 @@
             }
         },
         "releasedate": {
-            "day": "-",
-            "month": "-",
-            "year": "-"
+            "day": "24",
+            "month": "01",
+            "year": "2025"
         },
         "previousreleasedate": {
             "day": "10",
