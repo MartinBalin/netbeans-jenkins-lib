@@ -43,6 +43,10 @@
             "10ae50067964c447a78c330e4db0b206ca11fa0b": {
                 "version": "rc1",
                 "position": "1"
+            },
+            "46c1feab2cb98b58ae1eccb4f9fba1c29137cf5d": {
+                "version": "rc2",
+                "position": "2"
             }
         },
         "releasedate": {
